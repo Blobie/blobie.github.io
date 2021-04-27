@@ -1,12 +1,12 @@
 ## Welcome To Blobies Github Website
 
-This is my first time creating this website on github and tell me if its ok or not
+Hello blobs this is me blobie aka: Jamie Chamberlain and this is my first time creating my github website!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### UPDATES ❗
-26/04/21: Removed the markdown section and added this section 
-27/04/21: Theme updated and release v26.4.21 added
+26/04/21: Removed the markdown section and added this section.
+27/04/21: Theme updated and release v26.4.21 added.
 
 ### Wanna Contact Me?
 
