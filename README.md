@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### UPDATES ❗
 26/04/21: Removed the markdown section and added this section.
+
 27/04/21: Theme updated and release v26.4.21 added.
 
 ### Wanna Contact Me?
